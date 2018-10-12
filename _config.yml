@@ -1,4 +1,4 @@
-url: https://y7kim.github.io
+url: https://johnnersuk.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
@@ -56,7 +56,7 @@ social:
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
-address:
+ address:
   - line: 3481 Melrose Place
   - line: Beverly Hills, CA 90210
 
